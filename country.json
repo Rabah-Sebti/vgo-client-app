@@ -1,0 +1,31 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "carName": "Toyota Camry",
+      "carType": "Sedan",
+      "carYear": 2020
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "carName": "Honda CR-V",
+      "carType": "SUV",
+      "carYear": 2018
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "carName": "Ford Focus",
+      "carType": "Hatchback",
+      "carYear": 2022
+    },
+    {
+      "firstName": "Eva",
+      "lastName": "Williams",
+      "carName": "Mazda MX-5",
+      "carType": "Convertible",
+      "carYear": 2019
+    }
+  ]
+  
